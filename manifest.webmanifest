@@ -1,11 +1,11 @@
 {
-  "name": "LocalizaLote",
-  "short_name": "LocalizaLote",
+  "name": "LOTEcaliza",
+  "short_name": "LOTEcaliza",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#2f5d3a",
+  "theme_color": "#2f7a45",
   "icons": [
     {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
     {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
